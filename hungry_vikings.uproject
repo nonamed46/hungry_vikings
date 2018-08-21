@@ -23,10 +23,9 @@
 		{
 			"Name": "PerformanceMonitor",
 			"Enabled": true
-		},
-		{
-			"Name": "RenderDocPlugin",
-			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
